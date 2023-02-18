@@ -1,1 +1,1 @@
-# Version-Control
+# We askd for the users' name and age. If their age is over or equal to 18, our program will say that they are already adults. If they are under 18, the program will calculate when they will get 18 and print the time out.
