@@ -1,17 +1,17 @@
-#Microsoft Community Code of Conduct
-#This Code of Conduct applies to all users of the Microsoft Community.
+Microsoft Community Code of Conduct
 
-#Member Qualifications
+This Code of Conduct applies to all users of the Microsoft Community.
+
+Member Qualifications
+
 The Microsoft Community is designed for individuals 13 years of age or older.
-
 As a participant of these forums you agree that you will uphold this Code of Conduct, and are responsible for all activities and content you post/upload.
-
 In addition to upholding this Code of Conduct, you are responsible for adhering to all applicable local and national laws.
-
 This is your community. Help us to keep it safe, friendly, fun and helpful.
 
 
-#Please do:
+Please do:
+
 Be polite and respectful in your posts, and in your replies to other people.
 Keep conversation threads on track and constructive. It's okay to disagree with another user's post, but don't take the thread off track to do so. Always address your comments to the person who asked the initial question, not the other posters.
 Cite the source of anything you post or upload, if it isn't your own original content. Be honest about your sources.
@@ -19,7 +19,8 @@ Keep it clean. No profanity, obscenity, insulting or bigoted comments please.
 Search to see if a question you'd like answered has already been posted by somebody else. Posting the same question repeatedly and starting multiple threads on the same subject can be confusing.
 Report any kind of abuse you find in the community. You will find "Report abuse" links in every post and in every profile.
 
-#Please don't:
+Please don't:
+
 Divert or change a thread for your own purposes; just start a new thread with the subject you want to discuss.
 Post questions that are the same or similar to questions you have already posted. When someone has an answer to your question, that person will respond to you.
 Threaten, stalk, insult, victimize or intimidate anyone (or group of people) for any reason; including on the basis of age, gender, disability, ethnicity, sexual orientation, race or religion.
@@ -30,7 +31,8 @@ Post chain letters.
 Link to websites that require payment to access information.
 Post links to external sites that violate this Code of Conduct.
 
-#Things that will get you immediately banned from this forum:
+Things that will get you immediately banned from this forum:
+
 Posting content that is intended to harm or exploit minors in any way, including collecting the personally identifiable information (PII) of any minor (anyone under18 years old), including, but not limited to: name, email address, home address, phone number, or the name of the minor's school.
 Invading anyone's privacy by attempting to harvest, collect, store, or publish private or personally identifiable information, such as passwords, account information, credit card numbers, addresses, or other contact information without that person's knowledge and willing consent.
 Posting content or links to content that is illegal or violates any applicable local or national laws.
@@ -44,11 +46,13 @@ Attempting to manipulate the forums, or other community features, including rank
 Offering to make international money transfers for amounts exceeding the asking price of an item, with intent to request a refund of any portion of the payment.
 Using any form of automated device or computer program that enables the submission of postings without the express written consent of Microsoft Corporation.
 
-#Community User Cautions
+Community User Cautions
+
 Be very cautious about accepting direct help from another user. If that user suggest she use Remote Assistance to help you, be aware that he will have access to your computer, and that your computer could be hacked.
 If you volunteer to help another user through Remote Access, be very careful not to harm their computer in any way, or to access information that is not openly made available to you. Abuse of Remote Access will not be tolerated, and will result in your being banned from the community.
 Please be careful with your personal information. If you post your email address in a post, it may be used for any purpose by the general public, as this is a public community.
 Don't post information that could be used by others to steal your identity, like your street address, your phone number, your social security number, or your credit card number.
 
-#Termination and Cancellation
+Termination and Cancellation
+
 Microsoft reserves the right, at its sole discretion, and without any obligation to do so, to review and remove user-created services and content at will and without notice, and delete content and accounts. Microsoft reserves the right, at its sole discretion, to permanently ban participants or terminate access to the community.
