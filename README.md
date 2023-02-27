@@ -9,7 +9,7 @@ For the LICENSE.md, we choose the GNU Lesser General Public License. Users of ou
 For details on how to contribute to our project in a secure, welcoming, and polite manner, please visit our Code of Conduct.
 
 ## How to Contribute 
-If you want to help us with our project, we encourage all types of contributions, including bug reports, feature requests, code contributions, documentation, and more.
+If you want to help us with our project, we encourage all types of contributions, including bug reports,code contributions, documentation, and more.
 
 ## Instalation and Use 
 Follow these steps to utilize our software:
@@ -23,7 +23,7 @@ The GNU Lesser General Public License (LGPL), which controls how users may use a
 
 
 ## Contact Information
-If you have questions or concerns about our project, please reach out to us on our website or social media accounts. 
+If you have questions about our project, please reach out to us on our website or social media accounts. 
 
 
 ### Why we went with GNU LESSER GENERAL PUBLIC LICENSE Version 3 and Microsoft Community Code of Conduct as the license and code of conduct respectively? 
