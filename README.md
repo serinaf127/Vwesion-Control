@@ -17,7 +17,7 @@ Follow these steps to utilize our software:
 -Get the most recent version from our website or the GitHub source.
 -Using the given installer, install the program on your local PC.
 -Configure the program to meet your requirements.
--Start the program and have fun!
+-Start the program!
 
 The GNU Lesser General Public License (LGPL), which controls how users may use and redistribute our work, is the license that our software is released under. Users must abide by the LGPL's rules, however they are not compelled to provide the source code of any modifications they make to our program.
 
