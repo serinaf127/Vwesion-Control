@@ -11,6 +11,16 @@ For details on how to contribute to our project in a secure, welcoming, and poli
 ## How to Contribute 
 If you want to help us with our project, we encourage all types of contributions, including bug reports, feature requests, code contributions, documentation, and more.
 
+## Instalation and Use 
+Follow these steps to utilize our software:
+
+-Get the most recent version from our website or the GitHub source.
+-Using the given installer, install the program on your local PC.
+-Configure the program to meet your requirements.
+-Start the program and have fun!
+-License 
+
+
 
 
 
