@@ -19,6 +19,8 @@ Follow these steps to utilize our software:
 -Configure the program to meet your requirements.
 -Start the program and have fun!
 
+The GNU Lesser General Public License (LGPL), which controls how users may use and redistribute our work, is the license that our software is released under. Users must abide by the LGPL's rules, however they are not compelled to provide the source code of any modifications they make to our program.
+
 
 ## Contact Information
 If you have questions or concerns about our project, please reach out to us on our website or social media accounts. 
