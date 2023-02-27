@@ -6,11 +6,10 @@ We ask for the user's name and age in our program. If his or her age is over or 
 For the LICENSE.md, we choose the GNU Lesser General Public License. Users of our software such as developers and companies can study, use, integrate, distribute, and redistribute a software component under releasing their sourse code of any changes to the original software. The license is not restricted by the terms of a strong copyleft license so that the users do not need to release the whole program. 
 
 ## Code of Conduct 
-For details on how to contribute to our project in a secure, welcoming, and polite manner, please visit our Code of Conduct.
+Please read our Code of Conduct for information regarding how to contribute to our project in a friendly, and respectful manner.
 
 ## How to Contribute 
-If you want to help us with our project, we encourage all types of contributions, including bug reports,code contributions, documentation, and more.
-
+If you want to help us with our project, we encourage all types of contributions, including bug reports,code contributions, documentation, and many more.
 ## Instalation and Use 
 Follow these steps to utilize our software:
 
