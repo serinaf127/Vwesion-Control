@@ -1,5 +1,5 @@
 # Part1
-## We ask for the user's name and age in our program. If his or her age is over or equal to 18, our program will output that the user is already an adult. If he or she is still under 18, the program will calculate when the user will get 18 and print the year as an output.
+## We ask for the user's name and age in our program. If his or her age is over or equal to 18, our program will output that the user is already an adult. If he or she is still under 18, the program will calculate when the user will get 18 and print the year as an output. Our program can serve as a Calculator Plugin for websites and software.
 # Group Members: Serina Fan, Yexiu Gao, Minakshi Thapa
 
 # Part2
