@@ -18,7 +18,7 @@ Follow these steps to utilize our software:
 -Using the given installer, install the program on your local PC.
 -Configure the program to meet your requirements.
 -Start the program and have fun!
--License 
+
 
 ## Contact Information
 If you have questions or concerns about our project, please reach out to us on our website or social media accounts. 
