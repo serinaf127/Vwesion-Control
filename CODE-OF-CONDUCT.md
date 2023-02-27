@@ -17,7 +17,7 @@ Keep conversation threads on track and constructive. It's okay to disagree with 
 Cite the source of anything you post or upload, if it isn't your own original content. Be honest about your sources.
 Keep it clean. No profanity, obscenity, insulting or bigoted comments please.
 Search to see if a question you'd like answered has already been posted by somebody else. Posting the same question repeatedly and starting multiple threads on the same subject can be confusing.
-Report any kind of abuse you find in the community. You will find "Report abuse" links in every post and in every profile.
+Report any kind of abuse you find in the community. You will find "Report abuse" links in every post and in every profile.Diversity, equity, and inclusion are important to our project. We think that everyone has something to offer and that our community benefits from embracing our diversity and working together toward a common goal.
 
 Please don't:
 
@@ -50,6 +50,7 @@ Community User Cautions
 
 Be very cautious about accepting direct help from another user. If that user suggest she use Remote Assistance to help you, be aware that he will have access to your computer, and that your computer could be hacked.
 If you volunteer to help another user through Remote Access, be very careful not to harm their computer in any way, or to access information that is not openly made available to you. Abuse of Remote Access will not be tolerated, and will result in your being banned from the community.
+Be careful of how your words may affect others and use inclusive language.
 Please be careful with your personal information. If you post your email address in a post, it may be used for any purpose by the general public, as this is a public community.
 Don't post information that could be used by others to steal your identity, like your street address, your phone number, your social security number, or your credit card number.
 
