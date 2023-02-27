@@ -8,6 +8,10 @@ For the LICENSE.md, we choose the GNU Lesser General Public License. Users of ou
 ## Code of Conduct 
 For details on how to contribute to our project in a secure, welcoming, and polite manner, please visit our Code of Conduct.
 
+## How to Contribute 
+If you want to help us with our project, we encourage all types of contributions, including bug reports, feature requests, code contributions, documentation, and more.
+
+
 
 
 
