@@ -20,6 +20,9 @@ Follow these steps to utilize our software:
 -Start the program and have fun!
 -License 
 
+## Contact Information
+If you have questions or concerns about our project, please reach out to us on our website or social media accounts. 
+
 
 
 
