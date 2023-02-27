@@ -28,8 +28,7 @@ If you have questions or concerns about our project, please reach out to us on o
 
 ### Why we went with GNU LESSER GENERAL PUBLIC LICENSE Version 3 and Microsoft Community Code of Conduct as the license and code of conduct respectively? 
 - As our open-source license, we picked the GNU Lesser General Public License Version 3 because it allows users to study, utilize, combine, share, and redistribute our software component while still safeguarding our copyright. 
-- Since it supports our ideals of fostering a secure, welcoming, inclusive, and helpful community, we decided to utilize the Microsoft Community Code of Conduct as our code of conduct.
-
+- Since it meets our aims of building a safe, inviting, inclusive, and helpful community, we picked the Microsoft Community Code of Conduct as our code of conduct.
 
 
 
