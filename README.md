@@ -3,8 +3,8 @@ We ask for the user's name and age in our program. If his or her age is over or 
 ## Group Members: Serina Fan, Yexiu Gao, Minakshi Thapa
 
 # Part2
-For the LICENSE.md, we choose the GNU Lesser General Public License. Users of our program such as developers and companies can study, use, integrate, distribute, and redistribute a software component under releasing their sourse code of any changes to the original software. Commercial use, modification, patent use, private use are permitted. The license is not restricted by the terms of a strong copyleft license so that the users do not need to release the whole program. 
-For the CODE-OF-CONDUCT.md, we choose the Microsoft Community Code of Conduct. The conduct applies to all users and contributors of our program. It guides how to behave and helps create a diverse, equal, and peaceful environment for everyone to communicate and contribute.
+- For the LICENSE.md, we choose the GNU Lesser General Public License. Users of our program such as developers and companies can study, use, integrate, distribute, and redistribute a software component under releasing their sourse code of any changes to the original software. Commercial use, modification, patent use, private use are permitted. The license is not restricted by the terms of a strong copyleft license so that the users do not need to release the whole program. 
+- For the CODE-OF-CONDUCT.md, we choose the Microsoft Community Code of Conduct. The conduct applies to all users and contributors of our program. It guides how to behave and helps create a diverse, equal, and peaceful environment for everyone to communicate and contribute.
 
 
 ## Code of Conduct 
