@@ -3,19 +3,23 @@ We ask for the user's name and age in our program. If his or her age is over or 
 ## Group Members: Serina Fan, Yexiu Gao, Minakshi Thapa
 
 ### Part2
-## License
-You can study, use, integrate, distribute, and redistribute our code to your own software without releasing the source code. Commercial use, modification, patent use, private use are permitted. Copyright and license notices must be preserved. 
-
 ## Code of Conduct 
 Please read our Code of Conduct for information regarding how to contribute to our project in a friendly, and respectful manner.
 
 ## How to Contribute 
-If you want to help us with our project, we encourage all types of contributions, including bug reports, code contributions, documentation, and many more.  <br />Please follow:  <br />
-
+If you want to help us with our project, we encourage all types of contributions, including bug reports, code contributions, documentation, and many more.<br />
+**Please do:**  <br />
 -Be responsible for all activities and content you post/upload. <br />
 -Cite the source of anything you post/upload if it is not your own original content.<br />
 -Search to see if a contribution you'd like to make has already been posted by somebody else or is similar to the existing content.<br />
--Ask for consent, if you have to make any edition on the contribution of somebody else.
+-Ask for consent, if you have to make any edition on the contribution of somebody else.<br />
+
+**Please don't:** <br />
+-Post content that is irrelevant to the program.<br />
+-Insult or threaten anyone else (or group of people) for any reason.
+
+## License
+You can study, use, integrate, distribute, and redistribute our code to your own software without releasing the source code. Commercial use, modification, patent use, private use are permitted. Copyright and license notices must be preserved. 
 
 ## Instalation and Use 
 Follow these steps to utilize our software:
