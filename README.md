@@ -11,7 +11,8 @@ We ask for the user's name and age in our program. If his or her age is over or 
 Please read our Code of Conduct for information regarding how to contribute to our project in a friendly, and respectful manner.
 
 ## How to Contribute 
-If you want to help us with our project, we encourage all types of contributions, including bug reports, code contributions, documentation, and many more.<br />
+If you want to help us with our project, we encourage all types of contributions, including bug reports, code contributions, documentation, and many more.
+
 **Please do:** <br />
 -Be responsible for all activities and content you post/upload.<br />
 -Cite the source of anything you post or upload if it is not your own original content.<br />
