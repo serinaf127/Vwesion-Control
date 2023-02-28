@@ -10,18 +10,18 @@ You can study, use, integrate, distribute, and redistribute our code to your own
 Please read our Code of Conduct for information regarding how to contribute to our project in a friendly, and respectful manner.
 
 ## How to Contribute 
-If you want to help us with our project, we encourage all types of contributions, including bug reports, code contributions, documentation, and many more. Please follow:
--Be responsible for all activities and content you post/upload. <br />
+If you want to help us with our project, we encourage all types of contributions, including bug reports, code contributions, documentation, and many more.  <br />Please follow: <br />
+-Be responsible for all activities and content you post/upload.
 -Cite the source of anything you post/upload if it is not your own original content.<br />
 -Search to see if a contribution you'd like to make has already been posted by somebody else or is similar to the existing content.<br />
--Ask for consent, if you have to make any edition on the contribution of somebody else. <br />
+-Ask for consent, if you have to make any edition on the contribution of somebody else.
 
 ## Instalation and Use 
 Follow these steps to utilize our software:
 
--Get the most recent version from our website or the GitHub source.
--Using the given installer, install the program on your local PC.
--Configure the program to meet your requirements.
+-Get the most recent version from our website or the GitHub source. <br />
+-Using the given installer, install the program on your local PC. <br />
+-Configure the program to meet your requirements. <br />
 -Start the program!
 
 The GNU Lesser General Public License (LGPL), which controls how users may use and redistribute our work, is the license that our software is released under. Users must abide by the LGPL's rules, however they are not compelled to provide the source code of any modifications they make to our program.
