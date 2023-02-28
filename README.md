@@ -3,7 +3,8 @@ We ask for the user's name and age in our program. If his or her age is over or 
 ## Group Members: Serina Fan, Yexiu Gao, Minakshi Thapa
 
 ### Part2
-For the LICENSE.md, we choose the GNU Lesser General Public License. Users of our software such as developers and companies can study, use, integrate, distribute, and redistribute a software component under releasing their sourse code of any changes to the original software. The license is not restricted by the terms of a strong copyleft license so that the users do not need to release the whole program. 
+## License
+You can study, use, integrate, and distribute our code to your own software without releasing the source code. Commercial use, modification, distribution, patent use, private use are permitted. Copyright and license notices must be preserved. 
 
 ## Code of Conduct 
 Please read our Code of Conduct for information regarding how to contribute to our project in a friendly, and respectful manner.
