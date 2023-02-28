@@ -53,6 +53,7 @@ This is your community. Help us to keep it safe, friendly, fun and helpful.
 
 - Be very cautious about accepting direct help from another user. If that user suggest she use Remote Assistance to help you, be aware that he will have access to your computer, and that your computer could be hacked.
 - If you volunteer to help another user through Remote Access, be very careful not to harm their computer in any way, or to access information that is not openly made available to you. Abuse of Remote Access will not be tolerated, and will result in your being banned from the community.
+- Be careful of how your words may affect others and use inclusive language.
 - Please be careful with your personal information. If you post your email address in a post, it may be used for any purpose by the general public, as this is a public community.
 - Don't post information that could be used by others to steal your identity, like your street address, your phone number, your social security number, or your credit card number.
 
